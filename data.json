@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": "101",
+      "text": "JavaScript",
+      "status": "completed"
+    },
+    {
+      "id": "ef66",
+      "text": "OOP",
+      "status": "completed"
+    },
+    {
+      "id": "8e91",
+      "text": "React.js",
+      "status": "in progress"
+    },
+    {
+      "id": "9222",
+      "text": "TypeScript",
+      "status": "unstarted"
+    },
+    {
+      "id": "038d",
+      "text": "Next.js",
+      "status": "unstarted"
+    },
+    {
+      "id": "e70b",
+      "text": "MySql",
+      "status": "unstarted"
+    },
+    {
+      "id": "b1b9",
+      "text": "Redux",
+      "status": "unstarted"
+    },
+    {
+      "id": "d8ba",
+      "text": "Git",
+      "status": "completed"
+    },
+    {
+      "id": "3cfe",
+      "text": "Linux",
+      "status": "completed"
+    },
+    {
+      "id": "b4d5",
+      "text": "Computer Architecture",
+      "status": "completed"
+    },
+    {
+      "id": "b8cb",
+      "text": "Assimbly",
+      "status": "completed"
+    },
+    {
+      "id": "62c9",
+      "text": "Bootstrap",
+      "status": "completed"
+    }
+  ]
+}
